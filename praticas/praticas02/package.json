@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node index.js"// acrescentei nesta seção o comando "dev": "node index.js".
+    "dev": "node index.js"
 
   },
   "keywords": [],
