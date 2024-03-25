@@ -13,3 +13,5 @@ router.put("/:produtoId",produtosController.buscarPeloId, produtosController.atu
 router.delete("/:produtoId",produtosController.buscarPeloId, produtosController.remover);
 
 module.exports = router;
+
+
