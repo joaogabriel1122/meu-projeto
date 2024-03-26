@@ -16,4 +16,3 @@ app.use(cookieParser());
 app.use("produtos", produtosRouter);
 
 module.exports = app;
-
